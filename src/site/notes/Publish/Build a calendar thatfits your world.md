@@ -3,7 +3,7 @@
 ---
 
 
-/pub
+
 
 [Fantasy Calendar](https://fantasy-calendar.com/)
 
