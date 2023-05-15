@@ -3,6 +3,10 @@
 ---
 
 
+obsidian://open?vault=Obsidian_Vault_Sync_GDrive&file=Publish%2FBuild%20a%20calendar%20thatfits%20your%20world
+
+obsidian://open?vault=Obsidian_Vault_Sync_GDrive&file=Publish%2FBio
+
 
 
 
